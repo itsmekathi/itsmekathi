@@ -48,7 +48,3 @@ My Github Stats:
 </p>
 
 ---
-
-<p align="center"> 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsmekathi&repo=itsmekathi&theme=radical">
-</p>
