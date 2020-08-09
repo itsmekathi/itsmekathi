@@ -9,3 +9,8 @@
 - ⚡ Fun fact: ...
 - :blush: Technologies i am interested in Web, Integration solution.
 
+[![Kathiravan's github stats](https://github-readme-stats.vercel.app/api?username=itsmekathi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekathi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekathi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
