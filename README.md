@@ -50,5 +50,5 @@ My Github Stats:
 ---
 
 <p align="center"> 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=itsmekathi&theme=radical">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsmekathi&repo=itsmekathi&theme=radical">
 </p>
