@@ -24,4 +24,4 @@
 
 [![Kathiravan's github stats](https://github-readme-stats.vercel.app/api?username=itsmekathi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pinned](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=itsmekathi.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pinned](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=itsmekathi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
