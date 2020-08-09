@@ -36,10 +36,19 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekathi)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekathi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+My Github Stats:
 
-[![Kathiravan's github stats](https://github-readme-stats.vercel.app/api?username=itsmekathi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![Pinned](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=itsmekathi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=itsmekathi&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekathi&hide=css,html&theme=tokyonight">
+</p>
+
+---
+
+<p align="center"> 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=itsmekathi&theme=radical">
+</p>
